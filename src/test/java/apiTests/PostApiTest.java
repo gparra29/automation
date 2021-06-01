@@ -6,7 +6,6 @@ import org.junit.Test;
 import static io.restassured.RestAssured.given;
 
 public class PostApiTest {
-
     @Test
     public void testPostExample(){
         given().
